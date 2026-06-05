@@ -1,5 +1,4 @@
 # Monetki (Coinies)
-### Video Demo: [Monetki](https://youtu.be/jfe73pSrT_g)
 ## Description:
 
 ### Introduction
